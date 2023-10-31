@@ -1,3 +1,1 @@
-layout: page
-title: "Repositories"
-permalink: /repos
+Repositories
